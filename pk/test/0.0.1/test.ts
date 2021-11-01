@@ -1,3 +1,3 @@
-export default function(m){
+export const log = (m) => {
     console.log(m)
 }
